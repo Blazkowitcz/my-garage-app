@@ -1,0 +1,1 @@
+export { default as ItemStyle } from '@/styles/item'
