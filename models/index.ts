@@ -1,0 +1,1 @@
+export { default as BikeModel } from '@/models/bike'
